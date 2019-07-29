@@ -1,0 +1,70 @@
+header {
+    display: flex;
+    margin-bottom: 15px;
+    background-color: #ccc;
+    width: 100vw;
+}
+
+header img {
+    margin: 15px; 
+}
+
+nav div {
+    display: inline-flex;
+    margin: 30px 40px
+ }
+
+
+ main div {
+     display: flex;
+}
+
+
+div img {
+    margin: 15px 15px;
+}
+
+h2 {
+    font-size: 1.4em
+}
+div section {
+    margin: 15px;
+}
+
+section p {
+    font-size: 1.3em;
+    font-style: italic;
+    height: 325px;
+    width: 465px;
+    overflow: scroll;
+    margin-bottom: 10px
+}
+
+button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 1.1em;
+}
+
+button:hover {
+    transition-duration: 350ms;
+    background-color: gray;
+    color: lightgray;
+}
+
+ footer {
+     height: 200px;
+     background-color: #ccc;
+     margin-top: 15px;
+     width: 100vw;
+ }
+
+.margin-left {
+    margin-left: 70px
+}
+.margin-right {
+    margin-right: 70px
+}
