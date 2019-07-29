@@ -1,7 +1,7 @@
 header {
     display: flex;
     margin-bottom: 15px;
-    background-color: #ccc;
+    background-color: #aaa;
     width: 100vw;
 }
 
@@ -57,7 +57,7 @@ button:hover {
 
  footer {
      height: 200px;
-     background-color: #ccc;
+     background-color: #aaa;
      margin-top: 15px;
      width: 100vw;
  }
