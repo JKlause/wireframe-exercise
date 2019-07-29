@@ -11,14 +11,12 @@ header img {
 
 nav div {
     display: inline-flex;
-    margin: 40px 50px
- }
-
-
- main div {
-     display: flex;
+    margin: 40px 50px;
 }
 
+main div {
+     display: flex;
+}
 
 div img {
     margin: 15px 15px;
@@ -27,6 +25,7 @@ div img {
 h2 {
     font-size: 1.4em
 }
+
 div section {
     margin: 15px;
 }
@@ -55,16 +54,17 @@ button:hover {
     color: lightgray;
 }
 
- footer {
-     height: 200px;
-     background-color: #aaa;
-     margin-top: 15px;
-     width: 100vw;
- }
+footer {
+    height: 200px;
+    background-color: #aaa;
+    margin-top: 15px;
+    width: 100vw;
+}
 
 .margin-left {
-    margin-left: 70px
+    margin-left: 70px;
 }
+
 .margin-right {
-    margin-right: 70px
+    margin-right: 70px;
 }
