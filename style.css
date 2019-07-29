@@ -1,18 +1,32 @@
+
+
 header {
-    display: flex;
     margin-bottom: 15px;
     background-color: #aaa;
     width: 100vw;
 }
 
+header div {
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+}
+
 header img {
-    margin: 15px; 
+    margin: 0;
+    max-height: 70px;
 }
 
 nav div {
     display: inline-flex;
     margin: 40px 50px;
 }
+
+main {
+    max-width: 960px;
+    margin: auto;
+}
+
 
 main div {
      display: flex;
@@ -61,10 +75,3 @@ footer {
     width: 100vw;
 }
 
-.margin-left {
-    margin-left: 70px;
-}
-
-.margin-right {
-    margin-right: 70px;
-}
